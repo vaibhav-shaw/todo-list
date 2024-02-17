@@ -1,2 +1,1 @@
-# todo-list
-ToDo List
+A basic ToDo List app made using React.
